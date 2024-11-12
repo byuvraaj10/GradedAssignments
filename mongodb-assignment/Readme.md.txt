@@ -1,0 +1,2 @@
+MongoDB Assignment
+This repository contains MongoDB scripts to demonstrate basic CRUD operations, aggregation pipelines, and real-world data analysis scenarios. Each script performs specific database operations using MongoDB.
